@@ -22,4 +22,5 @@ func main() {
 Depois foi aberto o terminal e dados os comandos: “go build temp.go” e “go run temp.go”, exibindo na tela as mensagens:
 
 “A temperatura de ebulição da água em ºK = 373”
+
 ”A temperatura de ebulição da água em ºC = 100”
